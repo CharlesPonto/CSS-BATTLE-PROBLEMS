@@ -1,0 +1,21 @@
+🎯 Problem 1: Traffic Light
+
+Instructions:
+
+1. Set the background color to #2C3E50.
+
+2. Create a black vertical box (traffic light casing) with rounded corners:
+   - Width: 120px
+   - Height: 320px
+   - Background: #000000
+
+3. Inside the box, place 3 circles (80px diameter):
+   - Top: Red #E74C3C
+   - Middle: Yellow #F1C40F
+   - Bottom: Green #27AE60
+
+4. Circles must be:
+   - Centered horizontally
+   - Stacked vertically
+
+5. Center the entire traffic light in the viewport.

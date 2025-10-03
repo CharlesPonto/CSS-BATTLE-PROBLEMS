@@ -1,0 +1,20 @@
+🎯 Problem 4: Target Board
+
+Instructions:
+
+1. Set the background color to #2C3E50 (dark blue)
+
+2. Create 5 concentric circles (rings) centered in the viewport:
+    - All circles must be perfectly centered
+    - Circles should decrease in size from outermost to innermost
+
+3. Set the sizes and colors of the rings:
+    - Outermost: 250px diameter, Red #FF0000
+    - Second: 200px diameter, White #FFFFFF
+    - Third: 150px diameter, Red #FF0000
+    - Fourth: 100px diameter, White #FFFFFF
+    - Innermost: 50px diameter, Red #FF0000
+
+4. Ensure each circle is smaller than the previous to create the classic target look
+
+5. Center the entire target board in the viewport

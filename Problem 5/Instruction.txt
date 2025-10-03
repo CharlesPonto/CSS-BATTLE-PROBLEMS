@@ -1,0 +1,20 @@
+🎯 Problem 27: Ice Cream Cone
+
+Instructions:
+
+1. Set the background color to #ffffff; (White)
+
+2. Create the cone:
+    - Shape: Triangle pointing down
+    - Width (base): 100px
+    - Height: 150px
+    - Color: Brown #D2691E
+    - Centered horizontally
+
+3. Create the ice cream scoop:
+    - Shape: Circle
+    - Diameter: 120px
+    - Color: Pink #FF69B4
+    - Positioned above the cone, overlapping slightly
+
+4. Center the entire ice cream cone in the viewport

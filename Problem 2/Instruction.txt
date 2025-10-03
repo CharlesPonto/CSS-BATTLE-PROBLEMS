@@ -1,0 +1,32 @@
+🎯 Problem 2: Pokéball
+
+Instructions:
+
+1. Set the background color to #f0f0f0
+
+2. Create a circle (Pokéball body) with rounded borders:
+    - Width: 200px
+    - Height: 200px
+    - Border: 8px 
+    
+3. Divide the circle into two halves:
+    - Top half: Red #FF0000
+    - Bottom half: White #FFFFFF
+
+4. Add a horizontal black band across the center of the circle:
+    - Height: 20px
+    - Positioned in the middle
+
+5. Place a large white button in the center of the Pokéball:
+    - Width: 60px
+    - Height: 60px
+    - Background: White #FFFFFF
+    - Border: 8px 
+
+6. Inside the button, add a smaller gray circle:
+    - Width: 25px
+    - Height: 25px
+    - Background: Light gray #D3D3D3
+    - Centered inside the button
+
+7. Make sure the entire Pokéball is centered in the viewport

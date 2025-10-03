@@ -1,0 +1,23 @@
+🎯 Problem 3: Olympic Rings
+
+Instructions:
+
+1. Set the background color to #FFFFFF
+
+2. Create five circles (rings) of equal size:
+    - Diameter: 100px
+    - Border: 8px 
+
+3. Set the colors of the rings:
+    - First (top-left): Blue #0081C8
+    - Second (top-center): Black #000000
+    - Third (top-right): Red #FF0000
+    - Fourth (bottom-left): Yellow #F4C300
+    - Fifth (bottom-right): Green #009F3D
+
+4. Arrange the rings in two rows:
+    - Top row: Blue, Black, Red
+    - Bottom row: Yellow (under Blue), Green (under Red)
+    - Ensure the rings slightly overlap horizontally and vertically like the Olympic logo
+
+5. Center the entire logo in the viewport
