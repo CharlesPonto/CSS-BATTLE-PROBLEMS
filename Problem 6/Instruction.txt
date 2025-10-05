@@ -1,0 +1,23 @@
+🧩 Problem 6: Puzzle Piece
+
+Instructions:
+
+1. Set the background color to #f5f5f5.
+
+2. Create a main square piece:
+   - Size: 180px × 180px
+   - Background: #4cc9f0
+   - Rounded corners: 20px border radius
+   - Centered in the viewport
+
+3. Add two cut-out circles:
+   - Top center: 60px diameter, positioned halfway outside the top edge
+   - Right center: 60px diameter, positioned halfway outside the right edge
+   - Both filled with #f5f5f5 (background color)
+
+4. Add one protruding circle:
+   - Bottom center: 60px diameter
+   - Positioned halfway outside the bottom edge
+   - Same color as the puzzle piece (#4cc9f0)
+
+5. The final shape should resemble a single puzzle piece.

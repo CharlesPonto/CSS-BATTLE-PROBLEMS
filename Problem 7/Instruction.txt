@@ -1,0 +1,20 @@
+🎋 Problem 7: Gradient Stripes Banner
+
+Instructions:
+
+1. Set the background color to #ffffffff.
+
+2. Create a rectangular banner:
+   - Width: 300px
+   - Height: 150px
+   - Rounded corners: 10px border radius
+   - Centered both horizontally and vertically
+
+3. Apply a repeating linear gradient (45°) across the banner with the following color sequence:
+   - #ff6b6b (0–20px)
+   - #f9c74f (20–40px)
+   - #90be6d (40–60px)
+   - #577590 (60–80px)
+   - #f94144 (80–100px)
+
+4. The gradient should continuously repeat across the shape, forming diagonal colorful stripes.

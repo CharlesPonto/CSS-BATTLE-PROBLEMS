@@ -1,0 +1,21 @@
+☯️ Problem 9: Yin-Yang
+
+Instructions:
+
+1. Set the background color to #748A9D.
+
+2. Create a large circle:
+   - Diameter: 200px
+   - Divided equally with a vertical gradient:
+   - Left half: white (#fff)
+   - Right half: black (#000)
+
+3. Add two inner circles:
+   - Top center: 100px diameter, black (#000)
+   - Bottom center: 100px diameter, white (#fff)
+
+4. Add two smaller dots:
+   - In the black area: 40px diameter, white (#fff)
+   - In the white area: 40px diameter, black (#000)
+
+5. Center the Yin-Yang symbol in the viewport to complete the classic balance icon.

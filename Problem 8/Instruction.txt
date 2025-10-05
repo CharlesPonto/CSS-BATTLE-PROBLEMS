@@ -1,0 +1,21 @@
+☀️ Problem 8: Sunset Horizon
+
+Instructions:
+
+1. Set the background color to #87CEEB (sky blue).
+
+2. Create a sun:
+   - Shape: Circle
+   - Size: 200px × 200px
+   - Color: #FFD166
+   - Positioned 80px above the bottom of the viewport
+   - Centered horizontally
+
+3. Create a ground:
+   - Shape: Rectangle
+   - Width: 100% of the viewport
+   - Height: 150px
+   - Color: #073B4C
+   - Positioned at the bottom of the screen
+
+4. The overall scene should depict a sunset above a dark horizon.
