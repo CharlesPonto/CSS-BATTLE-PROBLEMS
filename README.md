@@ -43,7 +43,7 @@ Each challenge on Codier also lets you:
 
 ## ✨ Credits
 Made with ❤️ by  
-👨‍💻 [Charleszx28](https://github.com/Charleszx28)  
+👨‍💻 [Charleszx28]([https://github.com/Charleszx28](https://github.com/CharlesPonto))  
 👩‍💻 [aVeryTinySoapy](https://github.com/aVeryTinySoapy)
 
 Part of the **CITE Fest 2025: Front-End Showdown**
